@@ -1,4 +1,4 @@
-# 🧪 Chemistry Molar Mass Calculator
+<img width="1366" height="716" alt="Screenshot (804)" src="https://github.com/user-attachments/assets/51df05eb-ec93-4311-80af-4a009a4fce9e" /># 🧪 Chemistry Molar Mass Calculator
 
 A lightweight, interactive chemistry web application that calculates the molar mass of chemical compounds from their molecular formulas.
 
@@ -7,6 +7,9 @@ Built with **Python** and **Streamlit**, this project is designed to help chemis
 ## 🚀 Live Demo
 
 **Try the application:** https://chemistry-molar-mass-calculator.streamlit.app/
+
+## 🖼️ Screenshot
+<img width="1366" height="716" alt="Screenshot (804)" src="https://github.com/user-attachments/assets/dbb892a2-0c81-422b-b706-2b64df662ca5" />
 
 ## ✨ Features
 
